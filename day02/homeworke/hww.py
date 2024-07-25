@@ -1,0 +1,5 @@
+print("zura goletiani")
+print("gio chkonidze")
+print("luka chakvashvili")
+print("dachi sazandrishvili")
+print("luka akopiani")
