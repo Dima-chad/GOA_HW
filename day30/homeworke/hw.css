@@ -1,0 +1,20 @@
+p{
+    color: darkgreen;
+    text-align:center;
+    text-size-adjust:calc(20);
+    text-emphasis-style:initial;
+    text-decoration-line: overline;
+    text-transform: uppercase;
+    font-size: larger;
+    font-family:fantasy;
+    
+}
+body{
+    background-color: black;
+    color: black;
+}
+
+img{
+    text-align: center;
+    align-items: center;
+}
