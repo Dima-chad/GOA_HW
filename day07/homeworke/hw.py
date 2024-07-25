@@ -1,0 +1,7 @@
+user_1=int(input("user1 age: "))
+user_2=int(input("user2 age : "))
+user_3=int(input("user3 age :"))
+user_4=int(input("user4 age: "))
+user_5=int(input("user5 age: "))
+homeworke=(user_1 * user_2)
+print(user_1 * user_2 // user_3 +( user_4 + user_5 )+ homeworke)
