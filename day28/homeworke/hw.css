@@ -1,0 +1,12 @@
+h3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-orientation: sideways-right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  }
+  body{
+    background-color: darkgreen;
+  }
+  img{
+    text-align: center;
+  }
