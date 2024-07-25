@@ -1,0 +1,1 @@
+print ("gio, maka, omari, mari, ana, venera.")
