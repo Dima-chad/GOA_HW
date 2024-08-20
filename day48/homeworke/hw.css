@@ -1,0 +1,39 @@
+.not{
+    color: dimgray;
+    top: 400px;
+    left: 700px;
+    position: relative;
+}
+h1{
+    top: 400px;
+    left: 700px;
+    position: relative;
+}
+.friend{
+background-color: rgb(255, 156, 209);
+color: blueviolet;
+border-radius: 5px;
+top: 150px;
+
+}
+div{
+    height: 500px;
+    width: 400px;
+    left: 170px;
+    position: relative;
+}
+*{
+    left: 100px;
+    position: relative;
+}
+.avatar{
+    border-radius: 150px;
+    height: 60px;
+    width: 50px;
+    background-color: white;
+}
+
+#one{
+    left: 48px;
+    top: 90px;
+}
