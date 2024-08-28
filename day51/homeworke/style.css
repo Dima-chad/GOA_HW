@@ -1,0 +1,63 @@
+#one{
+    position: relative;
+    width: 900px; 
+    height: 1000px;
+}
+h1{
+    left: 1100px;
+    top: -850px; 
+    position: relative;
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.lrm1{
+    top: -880px;
+    left: 1100px;
+    position: relative;
+}
+.or{
+    left: 1300px;
+    top: -1000px;
+    position: relative;
+    font-size: 25px;
+}
+.dima{
+    left: 1500px;
+    top: -1060px;
+    position: relative;
+}
+input{
+ left: 1100px;
+ top: -900px;   
+ position: relative;
+ font-size: 50px;
+}
+.i{
+    top: -1050px;
+}
+.n{
+    top: -1000px;
+}
+.p{
+    top: -950px;
+}
+.lrm2{
+    left: 1100px;
+    top: -900px;
+    position: relative;
+}
+.cr{
+    top: -850px;
+    left: 1100px;
+    position: relative;
+    border-radius: 20px;
+    font-size: 50px;
+    color: white;
+    background-color: blue;
+}
+*{
+    top: -50px;
+    position: relative;
+}
