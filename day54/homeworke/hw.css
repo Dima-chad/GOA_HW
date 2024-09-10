@@ -1,0 +1,67 @@
+*{
+    position: relative;
+    
+    
+}
+p{color: white;}
+.big{
+    font-size: 25px;
+    color: darkcyan;
+
+}
+.min{
+    font-size: 20px;
+    color: darkolivegreen;
+}
+.mmin{
+    color: grey;
+}
+.div1{
+    color: black;
+    left: 321px;
+    top: 150px;
+}
+
+button{
+    background-color:chartreuse;
+    border-radius: 5px;
+    width: 240px;
+    height: 40px;
+    font-size: 20px;
+    left: 55px;
+}
+.div2{
+    background-color:darkcyan;
+    width: 350px;
+    top: 150px;
+    left: 322px;
+}
+.one{
+    font-size: 25px;
+
+}
+h1{
+    color: white;
+}
+.no{
+    top: -45px;
+    left: 55px;
+    color: darkseagreen;
+}
+.noth{
+    top: -60px;
+}
+.onee{
+    color: darkseagreen;
+    left: 5px;
+}
+h2{
+    color: white;
+}
+.div3{
+    height: 220px;
+    width: 350px;
+    top: -90px;
+    left: 672px;
+    background-color: rgb(18, 77, 155);
+}
