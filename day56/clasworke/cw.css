@@ -1,0 +1,57 @@
+.logo1{
+    position: relative;
+    left: 1000px;
+    font-size: 200px;
+    top: -250px;
+    width: 600px;
+    height: 550px;
+}
+.first{
+  left: 150px;
+  top: 100px; 
+  position: relative;
+  font-size: 45px; 
+}
+.lrm1{
+    top: 70px;
+    left: 150px;
+    font-size: 20px;
+    position: relative;
+}
+.p1{  
+      font-size: 25px;
+      left: 1560px;
+      top: -40px;
+      position: relative;
+
+}
+.p2{
+     
+    font-size: 25px;
+    left: 1430px;
+    top: -95px;
+    position: relative;
+}
+.p3{
+
+    font-size: 25px;
+    left: 1300px;
+    top: -150px;
+    position: relative;
+
+}
+input{
+     position: relative;
+     top: -500px;
+     left: 150px;
+     font-size: 30px;
+}
+button{
+    left: 600px;
+    position: relative;
+    top: -455px;
+    font-size:30px ;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+}
