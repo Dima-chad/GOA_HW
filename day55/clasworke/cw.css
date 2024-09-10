@@ -1,0 +1,19 @@
+body{
+    color: green;
+}
+p{
+    font-size: 40px;
+    color: rgb(255, 85, 0);
+    animation: d  3s ;
+    text-align: center;
+}
+@keyframes d {
+    0%{transform: translate(-5000px);opacity: 0;}
+    20%{opacity: 0.3;}
+    50%{opacity: 0.3;}
+    80%{opacity: 0.5;}
+    90%{opacity: 0.8;}
+    100%{transform: translate(0);
+    opacity: 1;}
+    
+}
