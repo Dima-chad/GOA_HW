@@ -1,0 +1,110 @@
+*{
+    position: relative;
+    left: 10px;
+}
+div{
+    width: 800px;
+    height: 850px;
+    background-color: white;
+}
+.input1{
+    font-size: 20px;
+
+}
+body{
+    background-color: rgb(176, 176, 176);
+}
+.input2{
+    font-size: 20px;
+    left: 300px;
+    top: -30px;
+}
+.lbl{
+    top: -30px;
+    left: 80px;
+}
+.input3{
+    font-size: 25px;
+    width: 550px;
+}
+.lbl1{
+    left: -250px;
+}
+.input4{
+    font-size: 20px;
+    left: 140px;
+}
+.lbl2{
+    font-size: 20px;
+    top: 15px;
+}
+.input5{
+    font-size: 20px;
+    left: 340px;
+    top: -40px;
+}
+.lbl3{
+    font-size: 20px;
+    top: -25px;
+    left: 200px;
+}
+button{
+    top: 700px;
+    font-size: 30px;
+    width: 600px;
+    left: 80px;
+    background-color: rgb(35, 204, 88);
+}
+.big{
+    font-size: 50px;
+    height: 450px;
+}
+@media only screen and (max-width: 600px) {
+    *{
+        position: relative;
+    }
+   div{
+    width: 350px;   
+    height: 550px;
+   }
+   body{
+    background-color:white
+   }
+   .input1{
+    top: -50px;
+   }
+   .lbll{
+    top:-50px;
+   }
+   .lbl{
+    left: -250px;
+   }
+   .input2{
+    left: 10px;
+   }
+   .input3{
+    width: 250px;
+   }
+   .lbl3{
+    top: 5px;
+    left: 10px;
+   }
+   .input5{
+    left: 140px;
+    top: -10px;
+   }
+   .mes{
+    top: 20px;
+   }
+   .big{
+    width: 300px;
+    height: 250px;
+   }
+   button{
+    top: 0;
+    font-size: 30px;
+    width: 200px;
+    top: 500px;
+
+   }
+}
