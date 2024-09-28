@@ -1,0 +1,12 @@
+:root{
+    --dima-dima: red;
+
+}
+div{
+    background-color: var(--dima-dima);
+
+    transform: translate(200px);
+    -webkit-transform: rotate(40deg);
+    -moz-transform: rotate(50deg);
+    -ms-transform: rotate(60deg);
+}

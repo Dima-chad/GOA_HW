@@ -1,0 +1,16 @@
+:root{
+    --dima-dima: red;
+}
+/*root aris programa romellshic shegidzlia chawero cvladi da miutitot rame magalitad peri rogorc me da rodesac
+dagwirdebat witeli peris gamoyeneba ubrlod dawerot var() da mititot cvladis saxeli da chaiwereba is rac tqven chaweret
+cvladshi
+*/
+h1{
+    color: var(--dima-dima);
+}
+p{
+    color: var(--dima-dima);
+}
+button{
+    color: var(--dima-dima);
+}
