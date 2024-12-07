@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+let postText = prompt("Enter the text to post on social media:");
+if (postText.length > 140) {
+    postText = postText.slice(0, 140);  
+    console.log("Post text is too long. It has been truncated: " + postText);
+} else {
+    console.log("Post text: " + postText);
+}
+
+    </script>
+</body>
+</html>
