@@ -1,1 +1,0 @@
-document.getElementById(yo).style.color="red"
